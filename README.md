@@ -1,4 +1,4 @@
-# Facke News Detection 
+# Fake News Detection using DistilBERT Pretrained Model and Transfer Learning
 > By Salar Mokhtari Laleh
 
 This project involves building a machine learning model using Python, PyTorch, and NLP techniques to detect whether a given news article is fake or real based on its textual content. The dataset used for this project is sourced from GitHub and contains various news articles labeled as either fake or real.
