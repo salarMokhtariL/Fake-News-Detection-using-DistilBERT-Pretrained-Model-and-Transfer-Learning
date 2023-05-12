@@ -26,7 +26,8 @@ You can install these libraries and packages using `pip`.
 1. Run the Jupyter Notebook: jupyter notebook `fake-news-detection.ipynb`
 2. Follow the instructions in the notebook to train and test the model.
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the [Salar Mokhtari Laleh Open-Source License](https://github.com/salarMokhtariL/Salar-Mokhtari-Laleh-License). See the LICENSE file for details
+
 
 # Acknowledgements
 * PyTorch
